@@ -35,3 +35,10 @@ The following 5 screenshots document my process:
     Remote commit history on main after merge<br/>
     <img src="screenshots\Activity3-5-commits.png" alt="Screenshot Activity 3-5"/><br/>
 </p>
+
+## Activity 4
+Unit test
+<p>
+    <img src="screenshots\Activity4-1-local-commit.png" alt="Screenshot Activity 4-1"/><br/>
+    <img src="screenshots\Activity4-2-remote-commit.png" alt="Screenshot Activity 4-2"/><br/>
+</p>
