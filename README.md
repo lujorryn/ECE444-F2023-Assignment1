@@ -42,3 +42,24 @@ Unit test
     <img src="screenshots\Activity4-1-local-commit.png" alt="Screenshot Activity 4-1"/><br/>
     <img src="screenshots\Activity4-2-remote-commit.png" alt="Screenshot Activity 4-2"/><br/>
 </p>
+
+## Activity 5
+Git rebase
+<p>
+    Complete rebase process with git logs after every step<br/>
+    <img src="screenshots\Activity5-1-rebase-process.png" alt="Screenshot Activity 4-1"/><br/>
+</p>
+
+Breakdown of `git rebase -i HEAD~4` inside the editor:
+
+<p>
+    Interactive rebase screen before edit<br/>
+    <img src="screenshots\Activity5-2-interactive-before.png" alt="Screenshot Activity 4-2"/><br/>
+    Interactive rebase screen after edit<br/>
+    <img src="screenshots\Activity5-3-interactive-after.png" alt="Screenshot Activity 4-2"/><br/>
+</p>
+
+### End result of Activity 5:
+develop: c3->c4->c1->c2\
+rebase: c1->c2\
+main: none of the c1~c4 commits
